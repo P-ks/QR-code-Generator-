@@ -1,2 +1,2 @@
 # QR-code-Generator-
-Just created small QQR code generator , using npm packages and nodejs basics .
+Just created small QR code generator , using npm packages and nodejs basics .
