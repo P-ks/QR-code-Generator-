@@ -1,2 +1,2 @@
 # QR-code-Generator
-Real-time QR code generator, using  nodejs.
+ QR code generator, using  nodejs.
