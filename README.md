@@ -1,2 +1,2 @@
 # QR-code-Generator
- QR code generator using power of nodejs as the backend.
+ QR code generator using tech of nodejs in backend.
